@@ -1,0 +1,20 @@
+package curso_java;
+
+public class ProcessamentoDados {
+
+	public static void main(String[] args) {
+		int x,y,m;
+		double p;
+		x = 5;
+		y= 2 * x;
+		m = 5;
+		p = 2 * m;
+		
+		
+		System.out.println(x);
+		System.out.println(y);
+		System.out.println(m);
+		System.out.println(p);
+	}
+
+}
