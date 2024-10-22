@@ -1,0 +1,23 @@
+package curso_java;
+
+import java.util.Scanner;
+
+public class EntradaDedados {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String x;
+		int y;
+		double z;
+		
+		x = sc.next();
+		y = sc.nextInt();
+		z = sc.nextDouble();
+		
+		System.out.println("Palavra digitada: " + x);
+		System.out.println("Número digitado: " + y);
+		System.out.println("Número digitado: " + z);
+		sc.close();
+	}
+
+}

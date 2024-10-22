@@ -1,0 +1,13 @@
+package curso_java;
+
+import java.util.Scanner;
+
+public class EntradaDedados {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		sc.close();
+	}
+
+}

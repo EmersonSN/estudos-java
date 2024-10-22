@@ -11,9 +11,9 @@ public class Main {
 
 		System.out.println(value);
 		System.out.printf("%.2f\n", x);
-		
+
 		Locale.setDefault(Locale.US);
-		
+
 		String nome = "Maria";
 		int idade = 31;
 		double renda = 4000.0;
