@@ -1,0 +1,14 @@
+package curso_java;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int value = 20;
+		double x = 10.35189;
+		System.out.println("Teste");
+
+		System.out.println(value);
+		System.out.printf("%.2f\n", x);
+	}
+
+}

@@ -1,0 +1,12 @@
+package curso_java;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int value = 20;
+		System.out.println("Teste");
+
+		System.out.println(value);
+	}
+
+}
